@@ -12,7 +12,7 @@ See [the main bitcore-dash repo](https://github.com/dashpay/bitcore-dash) for mo
 ## Getting Started
 
 ```sh
-npm install bitcore-p2p-dash
+npm install @flus38765/aither-p2p
 ```
 In order to connect to the Dash network, you'll need to know the IP address of at least one node of the network, or use [Pool](/docs/pool.md) to discover peers using a DNS seed.
 
